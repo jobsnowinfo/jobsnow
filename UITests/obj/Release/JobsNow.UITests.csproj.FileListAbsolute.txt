@@ -1,0 +1,8 @@
+C:\Users\alejandro.hernandez\Documents\Projects\JobsNow\UITests\bin\Release\JobsNow.UITests.dll
+C:\Users\alejandro.hernandez\Documents\Projects\JobsNow\UITests\bin\Release\JobsNow.UITests.pdb
+C:\Users\alejandro.hernandez\Documents\Projects\JobsNow\UITests\bin\Release\nunit.framework.dll
+C:\Users\alejandro.hernandez\Documents\Projects\JobsNow\UITests\bin\Release\Xamarin.UITest.dll
+C:\Users\alejandro.hernandez\Documents\Projects\JobsNow\UITests\bin\Release\nunit.framework.xml
+C:\Users\alejandro.hernandez\Documents\Projects\JobsNow\UITests\bin\Release\Xamarin.UITest.xml
+C:\Users\alejandro.hernandez\Documents\Projects\JobsNow\UITests\obj\Release\JobsNow.UITests.dll
+C:\Users\alejandro.hernandez\Documents\Projects\JobsNow\UITests\obj\Release\JobsNow.UITests.pdb
