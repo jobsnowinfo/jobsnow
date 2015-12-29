@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobsNow.Droid", "Droid\Jobs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobsNow.UITests", "UITests\JobsNow.UITests.csproj", "{C99C07F0-B3DD-4971-B085-6CB588901228}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "JobsNow.Core", "JobsNow.Core2\JobsNow.Core.shproj", "{0ABDB3D9-6437-4451-8D99-AC97EE6B92C1}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "JobsNow.Core", "JobsNow.Core\JobsNow.Core.shproj", "{C4A0CCC9-3CDE-4F20-ACED-8310AB0195A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
